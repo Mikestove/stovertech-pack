@@ -1,0 +1,13 @@
+name = "PvP Flag"
+filename = "pvpflag-neoforge-2.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8VovaWDa/versions/4Vw6uSgQ/pvpflag-neoforge-2.0.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8978a44f80dc8308671061fb6a4b9f05e4b4ddc27f417e6efab3becb5c1e8988cc42550ac29fa350c9ee2b4374ac252b4afacdf1bc096ed0886b922875095f9e"
+
+[update]
+[update.modrinth]
+mod-id = "8VovaWDa"
+version = "4Vw6uSgQ"
