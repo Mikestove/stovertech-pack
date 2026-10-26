@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "b6e91b2fd45cbcb4bab0cb0a632281c7bc7362b450b4590ebae9ad6e89eac217"
+hash = "afce138b59e91a581e669a4031526b5e653629f43b7d8e21868c1c00a4336c8a"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/robot-buddy.jar"
-hash = "431aa52a599a4e6a8f745826fd89fdef80b6033e20ee4468da30933ea91b4219"
+hash = "16f2f2d188726af16795a7d6709a69a87ae775d9cb91e27b061f7060d87c4943"
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
