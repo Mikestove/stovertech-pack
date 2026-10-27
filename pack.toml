@@ -1,12 +1,12 @@
 name = "StoverTech"
 author = "StoverTech"
-version = "0.3.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bc0a52fabc15edde353f94c7286fe479f2fea8597afe23d866e48196b1d9d597"
+hash = "bd52110e2952d3ddeb6b873e023e28d45dd77462bd7bcb1ce5f20a1ee54df59b"
 
 [versions]
 minecraft = "1.21.1"
