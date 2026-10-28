@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/robot-buddy.jar"
-hash = "788ed2b1418424b3b43f7c28dbc93aae4d140af230ee3eb2a13c49510aca1d33"
+hash = "60abd206ffccdc391a84b762f24cb6bf159da1d4f17798d3b554e2343b991691"
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
