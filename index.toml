@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "9b6b18b379f35023b391d759fa8f99e82e4e0d56235394016ae221d6c81b007f"
+preserve = true
+
+[[files]]
 file = "config/iris.properties"
 hash = "5a9df5acdb6eeb2d2dfe443c37a41e4667e69a07e60dfda0831498c9e5eba681"
 preserve = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
