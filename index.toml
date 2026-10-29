@@ -15,10 +15,6 @@ hash = "fa0a0adb3e209294664e147611582ff9ef167f7af5102be0ba5a5627236f11dd"
 preserve = true
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
-
-[[files]]
 file = "config/iris.properties"
 hash = "5a9df5acdb6eeb2d2dfe443c37a41e4667e69a07e60dfda0831498c9e5eba681"
 preserve = true
@@ -84,6 +80,11 @@ hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "bc8f73d505924c9e0f05da43e0a232532b845287b26aa27abde2410971b0e278"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -140,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "1a9165d269ae27db7c3f2128aa400f04877177480a8e65123d8ee931f6aac49c"
+hash = "726a7e54b6126312c40c6b941a8424f9b38dbdd0f75fe5c9c1014f134ef939ad"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -208,11 +209,6 @@ hash = "391f5b0b0fcae3ce77be6ab211435228faec79cb92c50d69471c52ba36b139d6"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -245,11 +241,6 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "f262b49b1038ef9f67704e0629da6aafa84cf4f760273589f5d73530ca5d74b5"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
