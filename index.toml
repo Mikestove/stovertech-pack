@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "732626cfa191c327378621a02885ae993ff98e958eb7ab490dba3014704b3e1f"
+hash = "58d40a1bd03d0b5a66ff25788d5ff4e8b0adc2764c50b9fdd662ad0ac724bdc4"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/robot-buddy.jar"
-hash = "f0aa5f80fcb577e73cda1b682d9e9a8305491c4266cec850b019d9e2a0cda326"
+hash = "d82f3e9e04a41b1ea5f42baa63234279708df465886d3e1c5b557455f5ffce9f"
 
 [[files]]
 file = "mods/selfexpression.pw.toml"
@@ -445,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "215ae0d445df462bd276febe9a4cf7cdd0342ff055d7570fa93d6c87c30c0a3e"
 metafile = true
 
 [[files]]
