@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "58d40a1bd03d0b5a66ff25788d5ff4e8b0adc2764c50b9fdd662ad0ac724bdc4"
+hash = "500bfeaf0fe778ff05b6366790c1155ec1a9615d3ccb6ed68972c02c3c3c3239"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
