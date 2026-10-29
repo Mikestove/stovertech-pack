@@ -15,6 +15,10 @@ hash = "fa0a0adb3e209294664e147611582ff9ef167f7af5102be0ba5a5627236f11dd"
 preserve = true
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b07a7d659026de564aca82cf021ca8bd6c11ef463ae48f87f3ab9b4007c7aadf"
+
+[[files]]
 file = "config/iris.properties"
 hash = "5a9df5acdb6eeb2d2dfe443c37a41e4667e69a07e60dfda0831498c9e5eba681"
 preserve = true
@@ -136,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "935a3f207b48ee8a56df939756217ba67e0adf09c755b9a3d65be4e759d9514e"
+hash = "1a9165d269ae27db7c3f2128aa400f04877177480a8e65123d8ee931f6aac49c"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
