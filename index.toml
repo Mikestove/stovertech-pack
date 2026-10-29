@@ -30,6 +30,11 @@ hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "846290a7a2b0af86414001d097ddc694b58266f8e9f57e3d381fda3e64e81212"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -351,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/robot-buddy.jar"
 hash = "f0aa5f80fcb577e73cda1b682d9e9a8305491c4266cec850b019d9e2a0cda326"
+
+[[files]]
+file = "mods/selfexpression.pw.toml"
+hash = "6d910446affc1497995491ec9f0c42206403436ca238da2bbd0d25cd2a39ca85"
+metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
