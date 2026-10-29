@@ -1,0 +1,114 @@
+{
+  "config_version": "2.0.43",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": true,
+    "overlap_padding": 0,
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 2.0
+  },
+  "structure_namespaces": [],
+  "structures": [],
+  "structure_sets": [
+    {
+      "name": "ae2:meteorite",
+      "spacing": 32,
+      "separation": 8,
+      "is_disabled": false,
+      "salt": 124895654,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "placement_attempts": 1,
+      "structure_weights": {
+        "ae2:meteorite": 1
+      }
+    },
+    {
+      "name": "bettermineshafts:mineshafts",
+      "is_disabled": false,
+      "salt": 593751784,
+      "frequency": 0.003,
+      "override_global_spacing_and_separation_modifier": true,
+      "placement_attempts": 1,
+      "structure_weights": {
+        "bettermineshafts:mineshaft_oak": 1,
+        "bettermineshafts:mineshaft_spruce": 1,
+        "bettermineshafts:mineshaft_dripstone": 1,
+        "bettermineshafts:mineshaft_mesa": 1,
+        "bettermineshafts:mineshaft_red_desert": 1,
+        "bettermineshafts:mineshaft_overgrown": 1,
+        "bettermineshafts:mineshaft_lush": 1,
+        "bettermineshafts:mineshaft_desert": 1,
+        "bettermineshafts:mineshaft_acacia": 1,
+        "bettermineshafts:mineshaft_jungle": 1,
+        "bettermineshafts:mineshaft_spruce_snowy": 1,
+        "bettermineshafts:mineshaft_ice": 1,
+        "bettermineshafts:mineshaft_mushroom": 1
+      }
+    },
+    {
+      "name": "droid_drifter:crash_sites",
+      "spacing": 28,
+      "separation": 12,
+      "is_disabled": false,
+      "salt": 580317442,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "placement_attempts": 1,
+      "structure_weights": {
+        "droid_drifter:crash_site": 1
+      }
+    },
+    {
+      "name": "droid_drifter:spires",
+      "spacing": 26,
+      "separation": 10,
+      "is_disabled": false,
+      "salt": 748392011,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "placement_attempts": 1,
+      "structure_weights": {
+        "droid_drifter:spire": 1
+      }
+    },
+    {
+      "name": "droid_drifter:waystone_towers",
+      "spacing": 16,
+      "separation": 6,
+      "is_disabled": false,
+      "salt": 91733205,
+      "frequency": 1.0,
+      "override_global_spacing_and_separation_modifier": true,
+      "placement_attempts": 1,
+      "structure_weights": {
+        "droid_drifter:waystone_tower": 1
+      }
+    },
+    {
+      "name": "minecraft:buried_treasures",
+      "is_disabled": false,
+      "salt": 0,
+      "frequency": 0.01,
+      "override_global_spacing_and_separation_modifier": true,
+      "placement_attempts": 1,
+      "structure_weights": {
+        "minecraft:buried_treasure": 1
+      }
+    },
+    {
+      "name": "minecraft:mineshafts",
+      "is_disabled": false,
+      "salt": 0,
+      "frequency": 0.004,
+      "override_global_spacing_and_separation_modifier": true,
+      "placement_attempts": 1,
+      "structure_weights": {
+        "minecraft:mineshaft": 1,
+        "minecraft:mineshaft_mesa": 1
+      }
+    }
+  ],
+  "structure_template_pools": [],
+  "config_datetime": "2026-10-28_18-11-41"
+}

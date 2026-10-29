@@ -1,12 +1,12 @@
 name = "Drifters & Droids"
 author = "StoverTech"
-version = "0.8.1"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2a2c63e2ca1fe11f341740f90e04e13869310303d49b545864b50658d8b09673"
+hash = "39dfe70356f51f621844e9245bb4ebd00154c9a00ea767dff9ecde572f99bd5e"
 
 [versions]
 minecraft = "1.21.1"

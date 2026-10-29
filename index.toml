@@ -20,6 +20,10 @@ hash = "5a9df5acdb6eeb2d2dfe443c37a41e4667e69a07e60dfda0831498c9e5eba681"
 preserve = true
 
 [[files]]
+file = "config/structurify.json"
+hash = "adba0b9f477ca47a14f93c42a95e321cc16189cb09e0c2cf098642cfd34d5f8d"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "bcc34f607a107a148928c80c8fdef326170975df392ce7f476a47df956b1fc5c"
 metafile = true
@@ -141,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "502dc22beb6f7c0e33b29659bea7489b8fe7f13e30006b45279f42d142dbb64a"
+hash = "8eb3f8a14358e69afa3b1c07f23c4df68a2f90fd1960be1d9fb7dff8344a0cd9"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
