@@ -140,6 +140,10 @@ hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
+file = "mods/droid-drifter.jar"
+hash = "5d1e20ceb3295f43d9681ceb04b49896e46312f7bad17e13a1a3b941a01160bd"
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
@@ -151,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "500bfeaf0fe778ff05b6366790c1155ec1a9615d3ccb6ed68972c02c3c3c3239"
+hash = "08b20b78206f90fddb1371a1572d7f09e78d43bcfec922723a42fe1f30232551"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -367,10 +371,6 @@ metafile = true
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
-
-[[files]]
-file = "mods/robot-buddy.jar"
-hash = "fc7fe8a57f461d8085ee8f83aed1c6cf81108af61139af6d847587eb2dcd9938"
 
 [[files]]
 file = "mods/selfexpression.pw.toml"
