@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/robot-buddy.jar"
-hash = "d82f3e9e04a41b1ea5f42baa63234279708df465886d3e1c5b557455f5ffce9f"
+hash = "fc7fe8a57f461d8085ee8f83aed1c6cf81108af61139af6d847587eb2dcd9938"
 
 [[files]]
 file = "mods/selfexpression.pw.toml"
