@@ -60,19 +60,6 @@
       }
     },
     {
-      "name": "droid_drifter:spires",
-      "spacing": 26,
-      "separation": 10,
-      "is_disabled": false,
-      "salt": 748392011,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": true,
-      "placement_attempts": 1,
-      "structure_weights": {
-        "droid_drifter:spire": 1
-      }
-    },
-    {
       "name": "droid_drifter:waystone_towers",
       "spacing": 16,
       "separation": 6,
