@@ -24,6 +24,10 @@ file = "config/simplehats.json5"
 hash = "519ebf3639c389a54305eb9799b9b1a3befe3c930c488bbea6977edff8530797"
 
 [[files]]
+file = "config/steves_realistic_sleep.json"
+hash = "83caa4b5b44b4a7e3c6c206dd60645d324578c31ea286aa5dc228d24dd97ea9f"
+
+[[files]]
 file = "config/structurify.json"
 hash = "11d1cd8a1a257e337902964e924db8e1872f5001a60645529da515f5b0698562"
 
@@ -149,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "4954692f0d5064f8c6a94a67c8c3685a97cc6b3f798c0cbfbc65876efb7b2fba"
+hash = "4d87ce51675277528b2e8b7f3d780ca7ee0079402970c7030358a8f8a02d4f6c"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -163,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "08b20b78206f90fddb1371a1572d7f09e78d43bcfec922723a42fe1f30232551"
+hash = "a6b9a79b25e27f5c34007090efd9295a7e3d606b3f41b74e8d993886c23671cf"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
@@ -198,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
 metafile = true
 
 [[files]]
@@ -438,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/stellarity.pw.toml"
 hash = "2a0794f30a563dc48063728a9b452125c4e45749283f103e396ec1890e518a14"
+metafile = true
+
+[[files]]
+file = "mods/stevesrealisticsleep.pw.toml"
+hash = "8dfafcc23df0337e6a6dd2afd094a2d9d838b76dd3a5f04c8cc3850fa52a01b3"
 metafile = true
 
 [[files]]
