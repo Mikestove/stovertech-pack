@@ -1,0 +1,157 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "kit"
+	group: ""
+	icon: {
+		id: "droid_drifter:shoulder_turret"
+	}
+	id: "6D03479B1A9251E6"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2B83A541DE778901"
+			icon: {
+				id: "droid_drifter:drifter_compass"
+			}
+			x: 0.0d
+			y: 0.0d
+			tasks: [
+				{
+					id: "3B09D67C7A3C5856"
+					item: {
+						count: 1
+						id: "droid_drifter:drifter_compass"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "4ACA9C2ED71AB1CD"
+					type: "xp"
+					xp: 40
+				}
+			]
+		}
+		{
+			id: "2DD3EEC3EBF047DD"
+			icon: {
+				id: "droid_drifter:drifter_cape"
+			}
+			x: 0.0d
+			y: 2.0d
+			tasks: [
+				{
+					id: "1797D3381481F3EF"
+					item: {
+						count: 1
+						id: "droid_drifter:drifter_cape"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "6D15CEEDB9855F56"
+					type: "xp"
+					xp: 40
+				}
+			]
+		}
+		{
+			id: "482F6EC90074FE29"
+			icon: {
+				id: "droid_drifter:shoulder_turret"
+			}
+			x: 2.0d
+			y: 0.0d
+			dependencies: [
+				"10DD6B9859978E5A"
+			]
+			tasks: [
+				{
+					id: "6D9A49593C7D5CB0"
+					item: {
+						count: 1
+						id: "droid_drifter:shoulder_turret"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "77062BF8D5047E0B"
+					item: {
+						count: 1
+						id: "droid_drifter:power_cell"
+					}
+					type: "item"
+					count: 2
+				}
+				{
+					id: "79260ACD9B08924B"
+					type: "xp"
+					xp: 80
+				}
+			]
+		}
+		{
+			id: "29035329E9BE1230"
+			icon: {
+				id: "droid_drifter:shoulder_parrot"
+			}
+			x: 2.0d
+			y: 2.0d
+			dependencies: [
+				"10DD6B9859978E5A"
+			]
+			tasks: [
+				{
+					id: "68CA300706DE2140"
+					item: {
+						count: 1
+						id: "droid_drifter:shoulder_parrot"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "26614E95CA2F6204"
+					type: "xp"
+					xp: 80
+				}
+			]
+		}
+		{
+			id: "738B5D8A43A392C0"
+			icon: {
+				id: "droid_drifter:robot_kit"
+			}
+			x: 4.0d
+			y: 1.0d
+			dependencies: [
+				"10DD6B9859978E5A"
+			]
+			tasks: [
+				{
+					id: "2E79F7888EC3B63B"
+					item: {
+						count: 1
+						id: "droid_drifter:robot_kit"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "2F4393CBD1BE925E"
+					type: "xp"
+					xp: 150
+				}
+			]
+		}
+	]
+}

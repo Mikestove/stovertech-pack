@@ -1,0 +1,26 @@
+{
+	quest.3A45D54427941437.title: "Another Crash"
+	quest.3A45D54427941437.quest_desc: [
+		"The ship didn't fall alone. &eFind another crashed ship&r out in the world."
+	]
+	quest.744B2A3B50D42A3A.title: "Waystone Towers"
+	quest.744B2A3B50D42A3A.quest_desc: [
+		"Climb a &bwaystone tower&r: there's a waystone at the top, and a chest."
+	]
+	quest.6D98370AB030816F.title: "Scavengers!"
+	quest.6D98370AB030816F.quest_desc: [
+		"Scavengers raid the land at night, far from the ship. &eDefeat 5.&r"
+	]
+	quest.75DF9BBE136C8FCB.title: "Their Captain"
+	quest.75DF9BBE136C8FCB.quest_desc: [
+		"Scavenger packs are led by a &ccaptain&r. &eDefeat one.&r"
+	]
+	quest.36685F1442CB81C0.title: "Rusty Droids"
+	quest.36685F1442CB81C0.quest_desc: [
+		"Old droids the Scavengers patched up and turned. &eDefeat one.&r"
+	]
+	quest.430732A2D72C8071.title: "The Wanderer"
+	quest.430732A2D72C8071.quest_desc: [
+		"Someone else walks this land. &eFind the Wanderer&r and say hello."
+	]
+}

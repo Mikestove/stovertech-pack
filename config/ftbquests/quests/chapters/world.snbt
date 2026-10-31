@@ -1,0 +1,167 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "world"
+	group: ""
+	icon: {
+		id: "minecraft:spyglass"
+	}
+	id: "285C5BBCCC2225D8"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3A45D54427941437"
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			x: 0.0d
+			y: 0.0d
+			tasks: [
+				{
+					id: "53A6242448287B8F"
+					advancement: "droid_drifter:quests/crash_site"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "146A88A075EAEE48"
+					type: "xp"
+					xp: 80
+				}
+			]
+		}
+		{
+			id: "744B2A3B50D42A3A"
+			icon: {
+				id: "minecraft:ladder"
+			}
+			x: 0.0d
+			y: 2.0d
+			tasks: [
+				{
+					id: "2941CC2681D3F0AE"
+					advancement: "droid_drifter:quests/waystone_tower"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "6B6DB65D6A9FCDAB"
+					type: "xp"
+					xp: 80
+				}
+			]
+		}
+		{
+			id: "6D98370AB030816F"
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			x: 2.0d
+			y: 0.0d
+			tasks: [
+				{
+					id: "11E02077304C6962"
+					entity: "droid_drifter:scavenger"
+					type: "kill"
+					value: 5L
+				}
+			]
+			rewards: [
+				{
+					id: "27A377EF56F403B6"
+					type: "xp"
+					xp: 80
+				}
+			]
+		}
+		{
+			id: "75DF9BBE136C8FCB"
+			icon: {
+				id: "minecraft:iron_helmet"
+			}
+			x: 4.0d
+			y: 0.0d
+			dependencies: [
+				"6D98370AB030816F"
+			]
+			tasks: [
+				{
+					id: "2E65181326042A10"
+					advancement: "droid_drifter:quests/scavenger_captain"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "2A111400A6FCE9CF"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+					count: 2
+				}
+				{
+					id: "6BA37C50F608EE16"
+					type: "xp"
+					xp: 120
+				}
+			]
+		}
+		{
+			id: "36685F1442CB81C0"
+			icon: {
+				id: "minecraft:iron_block"
+			}
+			x: 4.0d
+			y: 2.0d
+			dependencies: [
+				"6D98370AB030816F"
+			]
+			tasks: [
+				{
+					id: "36CFE161725953C0"
+					entity: "droid_drifter:rusty_droid"
+					type: "kill"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "26099226F4B25848"
+					type: "xp"
+					xp: 80
+				}
+			]
+		}
+		{
+			id: "430732A2D72C8071"
+			icon: {
+				id: "minecraft:compass"
+			}
+			x: 2.0d
+			y: 2.0d
+			tasks: [
+				{
+					id: "57EB95C96322F93F"
+					advancement: "droid_drifter:quests/meet_wanderer"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "2C269E68E7A8AE01"
+					type: "xp"
+					xp: 100
+				}
+			]
+		}
+	]
+}

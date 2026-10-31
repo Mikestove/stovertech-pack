@@ -6,13 +6,60 @@ hash = "9b6b18b379f35023b391d759fa8f99e82e4e0d56235394016ae221d6c81b007f"
 preserve = true
 
 [[files]]
-file = "config/darkmodeeverywhere-client.toml"
-hash = "3b20d398518918f1f8eaa8ed14d84ee2f672f7aee5eb45b01b484c13283c9c3a"
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
 
 [[files]]
-file = "config/darkmodeeverywhereshaders.json"
-hash = "fa0a0adb3e209294664e147611582ff9ef167f7af5102be0ba5a5627236f11dd"
-preserve = true
+file = "config/ftbquests/quests/chapters/crash.snbt"
+hash = "995dd78eafcf61bc9502c160abb3f90bebe568c3b8821e0dbdd22cdac06fb5b5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/kit.snbt"
+hash = "4ddfc860d20ba29df90c48cf51c9d892db43c885813e90b9219d8cdbabec20f2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ring.snbt"
+hash = "6fefd95eae2ac8944bad2fcb234905783e24d03e7a352df3b2b00e36cc102b17"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/settle.snbt"
+hash = "bc7c4ffa2a80fd56327dcde218278bf880d4ce35c1fbbf63bae9f2827151721c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/world.snbt"
+hash = "7fe973fc95c1a9679b4e78223a8b3d26390030890dd32d32071089952adbaf27"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "955b19e87d28610ebecf4de40b12bbc0ffe658f0158b2648410e16a5aee5f7f3"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapter.snbt"
+hash = "ef603a0a74cd662fbb98484f44476783900e62c7da345211889ca0bdfc1f7bbd"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/crash.snbt"
+hash = "a215351d002c6e54ea61aa925b2b6ad4eb5cd4283f54c69ac5c8e686dc42e05a"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/kit.snbt"
+hash = "1f327367b4337a8d7f149c9ea9e5e93d649f87b1699964001378b5c9e83d4280"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/ring.snbt"
+hash = "c3001a3394034ad967e6b71532bc981764b3a803fe588798dbc0c75bb1350849"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/settle.snbt"
+hash = "7fb824d57b689e3a450848f625c8475a4e7b5f7b98fdecc98d8a1fdfaf420954"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/world.snbt"
+hash = "a18d1fba4fe5b19d35511204495f63278e5d1feb8bde5fdb8abb3c3c6ed6b891"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/file.snbt"
+hash = "3e867267bb2243fc95926fb65940816dc4110829e84372d7a20c0e633bf33257"
 
 [[files]]
 file = "config/iris.properties"
@@ -142,18 +189,13 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "6740f13cb017492d25062d1d28a4a27c129170629cbdaf8de1e4ebc02582d28d"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "bcbe9f4c7983f5f649b72c894038c2c60e4daebf57b55caa2abdaf8b6196e034"
+hash = "6f188e347c154a542e00a2f599db6493a5885232ab9b2a20b24e82095624234e"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -187,6 +229,21 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "96c28351a679d5d770f5adfdc9999329938a9d1b8f7c0e4fb410505f42eebc6e"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "df64ca595f6f0f79e3a4a844fd0a887b44f5e007f5deb9ac011b5cf67b3a2127"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "45d3bc7051ed6546e492e5be236f0271031dd0e45328cf8eecbb035d521e345c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "c21c2308684a75cda7dd9d557d129c9f89f49be527da3d5aa675fff444c11f5e"
 metafile = true
 
 [[files]]

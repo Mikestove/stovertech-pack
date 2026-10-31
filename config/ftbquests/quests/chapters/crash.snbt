@@ -1,0 +1,214 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "crash"
+	group: ""
+	icon: {
+		id: "droid_drifter:ration_tin"
+	}
+	id: "3F6EF0D8A807DEB2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4AB709CBFC164331"
+			icon: {
+				id: "droid_drifter:ration_tin"
+			}
+			x: 0.0d
+			y: 0.0d
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "666E028F34AB2065"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "1B0046D4611FA2E5"
+					type: "xp"
+					xp: 10
+				}
+			]
+		}
+		{
+			id: "32D48D693279F6E5"
+			icon: {
+				id: "droid_drifter:robot_kit"
+			}
+			x: 2.0d
+			y: -1.0d
+			dependencies: [
+				"4AB709CBFC164331"
+			]
+			tasks: [
+				{
+					id: "596B8C3F5B8C8E98"
+					advancement: "droid_drifter:quests/choose_droid"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "22D882147A069E90"
+					type: "xp"
+					xp: 20
+				}
+			]
+		}
+		{
+			id: "6918AE8719CD03FA"
+			icon: {
+				id: "minecraft:coal"
+			}
+			x: 4.0d
+			y: -1.0d
+			dependencies: [
+				"32D48D693279F6E5"
+			]
+			tasks: [
+				{
+					id: "407F52E71C388399"
+					advancement: "droid_drifter:quests/wake_droid"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "2C26D4589D0AA5EE"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+					count: 4
+				}
+				{
+					id: "7C1AA1202B0852D6"
+					type: "xp"
+					xp: 20
+				}
+			]
+		}
+		{
+			id: "2E23E5AE107A73F9"
+			icon: {
+				id: "minecraft:chest"
+			}
+			x: 2.0d
+			y: 1.0d
+			dependencies: [
+				"4AB709CBFC164331"
+			]
+			tasks: [
+				{
+					id: "7C0C45B5D910FDEA"
+					advancement: "droid_drifter:quests/raid_ship"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "2FDF04E82B1523CB"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+					count: 4
+				}
+			]
+		}
+		{
+			id: "4478F508CE033DDD"
+			icon: {
+				id: "minecraft:written_book"
+			}
+			x: 4.0d
+			y: 1.0d
+			dependencies: [
+				"4AB709CBFC164331"
+			]
+			tasks: [
+				{
+					id: "425460A6CE9922D6"
+					type: "checkmark"
+				}
+			]
+			rewards: [
+				{
+					id: "24F718D00BF10E7C"
+					type: "xp"
+					xp: 20
+				}
+			]
+		}
+		{
+			id: "14984C2DE777783E"
+			icon: {
+				id: "droid_drifter:robot_tablet"
+			}
+			x: 6.0d
+			y: -2.0d
+			dependencies: [
+				"6918AE8719CD03FA"
+			]
+			tasks: [
+				{
+					id: "65CFDF21705B3A80"
+					item: {
+						count: 1
+						id: "droid_drifter:robot_tablet"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "359339A9DD5026F7"
+					type: "xp"
+					xp: 10
+				}
+			]
+		}
+		{
+			id: "2D3AEB9EDD166AAD"
+			icon: {
+				id: "droid_drifter:charging_station"
+			}
+			x: 6.0d
+			y: 0.0d
+			dependencies: [
+				"6918AE8719CD03FA"
+			]
+			tasks: [
+				{
+					id: "3B30F8CA7837A50B"
+					advancement: "droid_drifter:quests/droid_docked"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "2626D310980542C0"
+					item: {
+						count: 1
+						id: "droid_drifter:power_cell"
+					}
+					type: "item"
+				}
+				{
+					id: "2E0AD49A107F5461"
+					type: "xp"
+					xp: 30
+				}
+			]
+		}
+	]
+}

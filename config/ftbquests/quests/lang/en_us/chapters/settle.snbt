@@ -1,0 +1,30 @@
+{
+	quest.77B8B5F9B498B6AF.title: "Put It to Work"
+	quest.77B8B5F9B498B6AF.quest_desc: [
+		"Your droid can &echop trees&r, &emine&r and &efarm&r for you. Open the tablet and give it a job."
+	]
+	quest.785EE12D48862A96.title: "A Place to Sleep"
+	quest.785EE12D48862A96.quest_desc: [
+		"Nights are dangerous out here. Make a bed and &esleep in it&r: that's where you'll wake up next time."
+	]
+	quest.346261780C3B8179.title: "Power Cells"
+	quest.346261780C3B8179.quest_desc: [
+		"A &bPower Cell&r stores charge for your droid and your gear. Make one from copper, tin and redstone at a crafting table."
+		""
+		"Right-click your droid with a full cell to fill its battery."
+	]
+	quest.5BE7F87BB5F112F4.title: "Your Own Charger"
+	quest.5BE7F87BB5F112F4.quest_desc: [
+		"Build a &bCharging Station&r at your base so your droid can charge at home. Give it coal to burn."
+	]
+	quest.10DD6B9859978E5A.title: "The Assembly Bench"
+	quest.10DD6B9859978E5A.quest_desc: [
+		"The &bDroid Assembly Bench&r builds droids, shoulder gear and upgrade modules. It needs metals from your mines."
+	]
+	quest.5A7F1E387195D723.title: "Make It Stronger"
+	quest.5A7F1E387195D723.quest_desc: [
+		"At the bench, switch to &eModules&r and make a module. Then &esneak-right-click&r your droid and put it in its &bupgrade grid&r."
+		""
+		"Mix different modules: each one of the same kind counts a bit less."
+	]
+}

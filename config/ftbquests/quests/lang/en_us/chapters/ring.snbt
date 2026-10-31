@@ -1,0 +1,52 @@
+{
+	quest.19C7CABC4D81FD9C.title: "Red Lights on the Horizon"
+	quest.19C7CABC4D81FD9C.quest_desc: [
+		"Eight dark &bspires&r stand in a ring around the ship, about 1000 blocks away. You can see their &cred beams&r in the sky."
+		""
+		"&eTravel to a spire.&r A Drifter's Compass points to the nearest dark one."
+	]
+	quest.35AD7EF15512097E.title: "Feed the Core"
+	quest.35AD7EF15512097E.quest_desc: [
+		"Inside, the &bSpire Core&r shows what it needs: full &bPower Cells&r and materials."
+		""
+		"Bring them and &eright-click the core&r. Friends can help fill it."
+	]
+	quest.50B3470CC2991DC9.title: "Bring a Spire Online"
+	quest.50B3470CC2991DC9.quest_desc: [
+		"Once it's fed, the core charges up, and &cScavengers&r come to stop you. &eStay close and defend it!&r"
+		""
+		"When the charge is full the lights climb the tower and the beam turns &bcyan&r. Claim the cache behind the core!"
+	]
+	quest.77E3901DEBC886D7.title: "Three Lights"
+	quest.77E3901DEBC886D7.quest_desc: [
+		"Three spires online. Each one is harder than the last: bring your droids and your friends."
+	]
+	quest.56AD8D77DFB96873.title: "Five Lights"
+	quest.56AD8D77DFB96873.quest_desc: [
+		"Five spires online. The ring is more than half lit."
+	]
+	quest.51E9C41BEE23724A.title: "The Ring Is Lit"
+	quest.51E9C41BEE23724A.quest_desc: [
+		"All eight spires are online, and the beams are reaching for the sky over the crash site..."
+	]
+	quest.28F4BC40B035B80B.title: "The Way Up"
+	quest.28F4BC40B035B80B.quest_desc: [
+		"&7Something is waiting above the ring."
+		""
+		"&8(Coming soon.)"
+	]
+	quest.17D7BE80FD298826.title: "Data Shards"
+	quest.17D7BE80FD298826.quest_desc: [
+		"&bData shards&r hide in chests all over the world. Right-click one to decode the next entry of your journal."
+		""
+		"&eDecode 3 entries.&r"
+	]
+	quest.3EC764D89C26CA54.title: "More of the Story"
+	quest.3EC764D89C26CA54.quest_desc: [
+		"&eDecode 6 entries&r of your journal."
+	]
+	quest.529EFA9EC110B042.title: "The Whole Story (So Far)"
+	quest.529EFA9EC110B042.quest_desc: [
+		"&eDecode all 10 entries.&r Now you know what happened the night the ship fell."
+	]
+}

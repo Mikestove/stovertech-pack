@@ -1,0 +1,46 @@
+{
+	quest.4AB709CBFC164331.title: "Welcome, Drifter"
+	quest.4AB709CBFC164331.quest_desc: [
+		"You woke up in the wreck of a StoverTech ship. You're alive, and so is your droid."
+		""
+		"This book leads you through it all, one step at a time. Each quest ticks itself when you do it. Then &eclaim&r its reward!"
+		""
+		"Click the box below to start."
+	]
+	quest.32D48D693279F6E5.title: "Choose Your Droid"
+	quest.32D48D693279F6E5.quest_desc: [
+		"Every drifter has a droid. Pick yours on the &bChoose your droid&r screen: look at what each one is good at, then take it."
+		""
+		"It's yours for good, so choose carefully!"
+	]
+	quest.6918AE8719CD03FA.title: "Wake It Up"
+	quest.6918AE8719CD03FA.quest_desc: [
+		"Your droid is waiting in the ship's &bdroid bay&r, powered down."
+		""
+		"Hold a lump of &ecoal&r and &eright-click&r it. Then give it a name and a colour."
+	]
+	quest.2E23E5AE107A73F9.title: "Ship's Supplies"
+	quest.2E23E5AE107A73F9.quest_desc: [
+		"The ship's supply chests still have food, tools and fuel in them. Everyone gets their own share."
+		""
+		"&eOpen a chest&r in the wreck."
+	]
+	quest.4478F508CE033DDD.title: "Read Your Journal"
+	quest.4478F508CE033DDD.quest_desc: [
+		"You have a &bDrifter's Journal&r. It tells you what happened, and new entries appear when you decode &bdata shards&r."
+		""
+		"Read it, then tick the box. (Lost it? Type &e/journal&r.)"
+	]
+	quest.14984C2DE777783E.title: "Talk to Your Droid"
+	quest.14984C2DE777783E.quest_desc: [
+		"The &bRobot Tablet&r tells your droid what to do: follow you, guard, mine, farm, build and more."
+		""
+		"Press &eJ&r (or right-click the tablet) to open it."
+	]
+	quest.2D3AEB9EDD166AAD.title: "Keep It Charged"
+	quest.2D3AEB9EDD166AAD.quest_desc: [
+		"Droids run on charge. When its battery is low, your droid walks to a &bcharging station&r and docks on it."
+		""
+		"There are chargers in the droid bay and outside the ship. Let your droid &edock on one&r (tablet: &eGo charge&r)."
+	]
+}

@@ -1,0 +1,306 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ring"
+	group: ""
+	icon: {
+		id: "droid_drifter:drifter_compass"
+	}
+	id: "284CA77A7D574F78"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "19C7CABC4D81FD9C"
+			icon: {
+				id: "minecraft:red_stained_glass"
+			}
+			x: 0.0d
+			y: 0.0d
+			dependencies: [
+				"6918AE8719CD03FA"
+			]
+			size: 1.5d
+			tasks: [
+				{
+					id: "5A539DB493F6F363"
+					advancement: "droid_drifter:quests/reach_spire"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "286F3346150C597B"
+					type: "xp"
+					xp: 50
+				}
+			]
+		}
+		{
+			id: "35AD7EF15512097E"
+			icon: {
+				id: "droid_drifter:power_cell"
+			}
+			x: 2.0d
+			y: 0.0d
+			dependencies: [
+				"19C7CABC4D81FD9C"
+			]
+			tasks: [
+				{
+					id: "55270EA9E7ABFC15"
+					advancement: "droid_drifter:quests/feed_core"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "6B3C34AD0B727FCA"
+					type: "xp"
+					xp: 50
+				}
+			]
+		}
+		{
+			id: "50B3470CC2991DC9"
+			icon: {
+				id: "minecraft:beacon"
+			}
+			x: 4.0d
+			y: 0.0d
+			dependencies: [
+				"35AD7EF15512097E"
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "322221ED4C7A7E1B"
+					advancement: "droid_drifter:quests/spire_online"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "28C2D5BB8431F100"
+					item: {
+						count: 1
+						id: "droid_drifter:power_cell"
+					}
+					type: "item"
+					count: 3
+				}
+				{
+					id: "230DA0C426C96310"
+					type: "xp"
+					xp: 200
+				}
+			]
+		}
+		{
+			id: "77E3901DEBC886D7"
+			icon: {
+				id: "minecraft:light_blue_stained_glass"
+			}
+			x: 6.0d
+			y: -1.0d
+			dependencies: [
+				"50B3470CC2991DC9"
+			]
+			tasks: [
+				{
+					id: "3F5AD81C732B5476"
+					advancement: "droid_drifter:quests/spires_3"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "2FF88BB488182967"
+					item: {
+						count: 1
+						id: "droid_drifter:diamond_chip"
+					}
+					type: "item"
+				}
+				{
+					id: "49A06907C5B77D64"
+					type: "xp"
+					xp: 300
+				}
+			]
+		}
+		{
+			id: "56AD8D77DFB96873"
+			icon: {
+				id: "minecraft:cyan_stained_glass"
+			}
+			x: 8.0d
+			y: -1.0d
+			dependencies: [
+				"77E3901DEBC886D7"
+			]
+			tasks: [
+				{
+					id: "759B7EAA09A55C0F"
+					advancement: "droid_drifter:quests/spires_5"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "29FE6F6DD8C20F97"
+					item: {
+						count: 1
+						id: "droid_drifter:diamond_armor_plating"
+					}
+					type: "item"
+				}
+				{
+					id: "42B98F92A44CE1C5"
+					type: "xp"
+					xp: 400
+				}
+			]
+		}
+		{
+			id: "51E9C41BEE23724A"
+			icon: {
+				id: "minecraft:beacon"
+			}
+			x: 10.0d
+			y: 0.0d
+			dependencies: [
+				"56AD8D77DFB96873"
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "73F5C43772534FB1"
+					advancement: "droid_drifter:quests/spires_8"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "35A6A6CEA3B685BD"
+					item: {
+						count: 1
+						id: "droid_drifter:netherite_chip"
+					}
+					type: "item"
+				}
+				{
+					id: "3ABB833D72C0B5FC"
+					type: "xp"
+					xp: 1000
+				}
+			]
+		}
+		{
+			id: "28F4BC40B035B80B"
+			icon: {
+				id: "minecraft:end_rod"
+			}
+			x: 12.0d
+			y: 0.0d
+			dependencies: [
+				"51E9C41BEE23724A"
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "2EF36C74A9A80A77"
+					advancement: "droid_drifter:quests/the_way_up"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+		}
+		{
+			id: "17D7BE80FD298826"
+			icon: {
+				id: "droid_drifter:data_shard"
+			}
+			x: 2.0d
+			y: 2.0d
+			dependencies: [
+				"4478F508CE033DDD"
+			]
+			tasks: [
+				{
+					id: "7496FAB935C2995C"
+					advancement: "droid_drifter:quests/journal_3"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "323B07C25611B218"
+					type: "xp"
+					xp: 60
+				}
+			]
+		}
+		{
+			id: "3EC764D89C26CA54"
+			icon: {
+				id: "droid_drifter:data_shard"
+			}
+			x: 4.0d
+			y: 2.0d
+			dependencies: [
+				"17D7BE80FD298826"
+			]
+			tasks: [
+				{
+					id: "5D859D9028313BA8"
+					advancement: "droid_drifter:quests/journal_6"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "7E2BB0E99D4C5075"
+					type: "xp"
+					xp: 120
+				}
+			]
+		}
+		{
+			id: "529EFA9EC110B042"
+			icon: {
+				id: "minecraft:written_book"
+			}
+			x: 6.0d
+			y: 2.0d
+			dependencies: [
+				"3EC764D89C26CA54"
+			]
+			tasks: [
+				{
+					id: "5C7568110293B0ED"
+					advancement: "droid_drifter:quests/journal_10"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "17ACEBAE709E7B48"
+					type: "xp"
+					xp: 250
+				}
+			]
+		}
+	]
+}

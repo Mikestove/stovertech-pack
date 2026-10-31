@@ -1,0 +1,203 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "settle"
+	group: ""
+	icon: {
+		id: "minecraft:red_bed"
+	}
+	id: "373DEBC735CF7D68"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "77B8B5F9B498B6AF"
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			x: 0.0d
+			y: 0.0d
+			dependencies: [
+				"6918AE8719CD03FA"
+			]
+			tasks: [
+				{
+					id: "45A9AA3CFE1C742F"
+					advancement: "droid_drifter:quests/droid_job"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "6919D8457A0029F6"
+					type: "xp"
+					xp: 50
+				}
+			]
+		}
+		{
+			id: "785EE12D48862A96"
+			icon: {
+				id: "minecraft:red_bed"
+			}
+			x: 0.0d
+			y: 2.0d
+			tasks: [
+				{
+					id: "72F3DF8A1434A6F9"
+					advancement: "droid_drifter:quests/slept"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "290567AE5F59A50B"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+					count: 16
+				}
+			]
+		}
+		{
+			id: "346261780C3B8179"
+			icon: {
+				id: "droid_drifter:power_cell"
+			}
+			x: 2.0d
+			y: 0.0d
+			dependencies: [
+				"77B8B5F9B498B6AF"
+			]
+			tasks: [
+				{
+					id: "78A99B94E552E36A"
+					item: {
+						count: 1
+						id: "droid_drifter:power_cell"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "37F9F2C4794CD425"
+					type: "xp"
+					xp: 40
+				}
+			]
+		}
+		{
+			id: "5BE7F87BB5F112F4"
+			icon: {
+				id: "droid_drifter:charging_station"
+			}
+			x: 4.0d
+			y: -1.0d
+			dependencies: [
+				"346261780C3B8179"
+			]
+			tasks: [
+				{
+					id: "6ED19604BCBC0E57"
+					item: {
+						count: 1
+						id: "droid_drifter:charging_station"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "43AC7217F31E26E6"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+					count: 8
+				}
+				{
+					id: "1D56F3D1B83DB4B5"
+					type: "xp"
+					xp: 40
+				}
+			]
+		}
+		{
+			id: "10DD6B9859978E5A"
+			icon: {
+				id: "droid_drifter:droid_assembly_bench"
+			}
+			x: 4.0d
+			y: 1.0d
+			dependencies: [
+				"346261780C3B8179"
+			]
+			tasks: [
+				{
+					id: "140B3D41139531E2"
+					item: {
+						count: 1
+						id: "droid_drifter:droid_assembly_bench"
+					}
+					type: "item"
+				}
+			]
+			rewards: [
+				{
+					id: "3C718D1AE8F58D49"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+					count: 8
+				}
+				{
+					id: "1DC27DCED06CA9A7"
+					type: "xp"
+					xp: 60
+				}
+			]
+		}
+		{
+			id: "5A7F1E387195D723"
+			icon: {
+				id: "droid_drifter:iron_armor_plating"
+			}
+			x: 6.0d
+			y: 1.0d
+			dependencies: [
+				"10DD6B9859978E5A"
+			]
+			tasks: [
+				{
+					id: "122BC86228ADD1D4"
+					advancement: "droid_drifter:quests/module_installed"
+					criterion: ""
+					type: "advancement"
+				}
+			]
+			rewards: [
+				{
+					id: "4A4D2BDB9888D28B"
+					item: {
+						count: 1
+						id: "droid_drifter:gold_armor_plating"
+					}
+					type: "item"
+				}
+				{
+					id: "243235744821091F"
+					type: "xp"
+					xp: 80
+				}
+			]
+		}
+	]
+}

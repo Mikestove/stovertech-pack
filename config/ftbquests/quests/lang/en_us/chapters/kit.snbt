@@ -1,0 +1,22 @@
+{
+	quest.2B83A541DE778901.title: "Drifter's Compass"
+	quest.2B83A541DE778901.quest_desc: [
+		"Found in crashed ships. Right-click it and it points to the nearest dark spire."
+	]
+	quest.2DD3EEC3EBF047DD.title: "A Drifter's Cape"
+	quest.2DD3EEC3EBF047DD.quest_desc: [
+		"Every drifter needs a cape. It goes in your &bcape&r slot."
+	]
+	quest.482F6EC90074FE29.title: "Shoulder Turret"
+	quest.482F6EC90074FE29.quest_desc: [
+		"Built at the Assembly Bench (&eGear&r mode). Wear it in a &bshoulder&r slot and it fires a laser at monsters. It runs on Power Cells."
+	]
+	quest.29035329E9BE1230.title: "Shoulder Parrot"
+	quest.29035329E9BE1230.quest_desc: [
+		"A robot parrot for your other shoulder. It fetches things and warns you about creepers."
+	]
+	quest.738B5D8A43A392C0.title: "Another Droid"
+	quest.738B5D8A43A392C0.quest_desc: [
+		"Build a &bDroid Kit&r at the bench (&eDroids&r mode) and you have a second droid. You can have up to 9; one follows you at a time."
+	]
+}
