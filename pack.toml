@@ -1,12 +1,12 @@
-name = "Drifters & Droids"
+name = "Spirefall"
 author = "StoverTech"
-version = "0.11.0"
+version = "0.11.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0716b690880f7545454b51e4f41602e9994dd439403c67a81d301e32a1f22e5d"
+hash = "99ac6fe060b20068cea8cc4252d8cbf41e0fec55ad7d3da1eb52955976127ec5"
 
 [versions]
 minecraft = "1.21.1"

@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "5e11c22be10f078d14f208b08384c72b8ca630306346e94eee4631e3139c346b"
+hash = "bcbe9f4c7983f5f649b72c894038c2c60e4daebf57b55caa2abdaf8b6196e034"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -506,12 +506,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "aba95d9a82a7cedda4c0ce936ead9c764d0ffbc10483f0648d022213df7bb703"
+hash = "e97cb865d7a8c8310905d9140899fa55ea23c3fff2e23a17255ce2c162322ad7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f4bc20e3483a7a935b9ee674227aad73d24ecc4ea93e6c2d99955927a2197b20"
+hash = "3a8e91aecdb602039ba1f7445bbf6b64cc5a46344339a3ffaf3b2e3eb2f5bcbc"
 metafile = true
 
 [[files]]
