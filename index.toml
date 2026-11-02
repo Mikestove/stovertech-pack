@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "29394c92ffbddd462045513d64c90f1360291dc2f2da4ad07683387d86fcb90f"
+hash = "5a1456aeb2f52769fc389f9520d9633e12e30fa0ceee0b76ab639024c8f5fb62"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
