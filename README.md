@@ -1,4 +1,4 @@
-# StoverTech
+# Spirefall
 
 A Minecraft modpack for **Minecraft Java 1.21.1** with **NeoForge 21.1.258**, made for
 playing together on a small private server. It mixes building, cozy farming, exploring and
@@ -8,7 +8,7 @@ tech, with extra help for younger players who are new to survival.
 
 You need [Prism Launcher](https://prismlauncher.org/) and a Minecraft Java account.
 
-1. Download **[StoverTech-Prism.zip](https://github.com/Mikestove/stovertech-pack/releases/latest/download/StoverTech-Prism.zip)**.
+1. Download **[Spirefall-Prism.zip](https://github.com/Mikestove/stovertech-pack/releases/latest/download/Spirefall-Prism.zip)**.
    (Not the green "Code" button. That zip is only the file list below, and Prism can't use it.)
 2. In Prism: **Add Instance**, then **Import**, then **Browse**, pick the file, and click **OK**.
    You can also paste the download link into the Import box.
@@ -48,9 +48,10 @@ Plus the libraries these need.
 
 ### Made for this pack
 
-- **Robot Buddy:** every player gets a robot friend that follows them, fights monsters,
-  guards an area or hunts for food. Pick from several designs and any dye color, and upgrade
-  it with chips. It never dies; it powers down and can be repaired. The in-game **Robot Buddy
-  Book** explains everything.
-- **Family Basics:** the StoverTech main menu, the Family Cookie, and server rules suited to
-  young players: you keep your items when you die, and there's no fall damage.
+- **Drifters & Droids:** you wake up in a crashed ship with a droid at your side. Choose from
+  nine droids, each with its own role, and have them follow you, fight, mine, chop, farm and
+  build. Upgrade them with modules, dock them to charge and unload, and wake the ring of dark
+  spires around the crash. Scavengers raid your home every few nights, and the richer you get,
+  the bigger the raids, so build pop-up turrets to hold them off. The in-game **Drifters &
+  Droids** book explains everything.
+- **Family Basics:** the Family Cookie, chest padlocks, and server rules suited to young players.
