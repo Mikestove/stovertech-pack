@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "485694cf7fa35c91f41642a50b47fd7ed2939f484e3ba64d700f65169376990b"
+hash = "29394c92ffbddd462045513d64c90f1360291dc2f2da4ad07683387d86fcb90f"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "a6b9a79b25e27f5c34007090efd9295a7e3d606b3f41b74e8d993886c23671cf"
+hash = "ea3688f591a2b3d5f5aedad8d4007cda2882aa463b68472d0bf89c92aa372b07"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
