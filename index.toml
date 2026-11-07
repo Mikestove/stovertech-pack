@@ -134,6 +134,11 @@ hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
 metafile = true
@@ -195,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "40ca797c34b193e51da1eb01294b3e0c55f9762604e113220c0c0b57efa4c1c6"
+hash = "053dc5656217a6deae0bf2a9bcc3e6279fcfb3f02b9ca29cc4639d8cd43cbb07"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -339,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
