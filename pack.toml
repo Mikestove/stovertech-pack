@@ -1,12 +1,12 @@
 name = "Spirefall"
 author = "StoverTech"
-version = "0.18.3"
+version = "0.18.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b1a62c2f90dd2abbe22bcdb066e76caafe7c89d6565f75e66c4c7116304bcb0e"
+hash = "9df19373ed133c71f86c0587296b983804f5d1281e23283c376b4b9c57f26545"
 
 [versions]
 minecraft = "1.21.1"
