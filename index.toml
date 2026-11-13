@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "fe0271555da63333f6063b2bd8f6fe55d4d18bd4f8855d27ec1f83398c8d83b7"
+hash = "b1bcf79cbda898719c98f5596cf0ec58813422bd6269e4fe0ac2558ef9661007"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairyfolk.jar"
-hash = "f4d34431742d18657d8f0d576b048bb10877ba655018674867269d9856f6c286"
+hash = "8015ec8a1ee4de43d69e2c165bed873b05bff086743e8c5ad25a6ecda25bc5b8"
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
