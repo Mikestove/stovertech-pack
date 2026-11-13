@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/droid-drifter.jar"
-hash = "b1bcf79cbda898719c98f5596cf0ec58813422bd6269e4fe0ac2558ef9661007"
+hash = "952afbc6dd347d5514aa20c298b5974c7219c78b09c78800cd45f585a534efbd"
 
 [[files]]
 file = "mods/explorers-compass.pw.toml"
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairyfolk.jar"
-hash = "8015ec8a1ee4de43d69e2c165bed873b05bff086743e8c5ad25a6ecda25bc5b8"
+hash = "0612a8e0debaf7e555dbd47fd9b210d913078ee9bb9f6aa86fc2cdc29ebd5161"
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "0b0f5545360044b2016925492ea3d529b8d53a5f9a25475bb211a1c03ea95efa"
+hash = "9ee07c7d32ef308ba27f57ea8ca1c4e1f84343b3abab5674a147434148a4cabb"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
