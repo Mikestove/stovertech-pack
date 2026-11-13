@@ -208,13 +208,17 @@ hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
 
 [[files]]
+file = "mods/fairyfolk.jar"
+hash = "d20b8f8f95f2388c9e9e16e2d42c9c7ca693761b71612a117b58b647b892230e"
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
 file = "mods/family-basics.jar"
-hash = "ea3688f591a2b3d5f5aedad8d4007cda2882aa463b68472d0bf89c92aa372b07"
+hash = "0b0f5545360044b2016925492ea3d529b8d53a5f9a25475bb211a1c03ea95efa"
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
