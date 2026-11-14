@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairyfolk.jar"
-hash = "8639845e2b92edc45dfbae282d49f64dee44a6b57126c9b4b264422260408248"
+hash = "b8c5b2ffeaefeb3a3dee7fec189999cf79f0fc6d76935a760c7c21302c23ca6c"
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
